@@ -8,6 +8,8 @@
 
 Este repositório contém o front-end do projeto implementado com React + Vite + TypeScript. É uma prova de conceito (MVP) pensada para prototipagem e testes rápidos.
 
+> IMPORTANTE: nesta fase o projeto é apenas front-end (MVP). Não existe um backend integrado — dados e estado são armazenados localmente (localStorage) para fins de prototipagem. Se você for adicionar um backend no futuro, documente e configure as variáveis/endpoints necessários.
+
 ## Tecnologias
 
 - React 19
